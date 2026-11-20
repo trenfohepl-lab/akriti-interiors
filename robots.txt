@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akriti-interiors.vercel.app/sitemap.xml
